@@ -1,0 +1,15 @@
+[theme]
+# Primary accent color for interactive elements (Matrix/Cyber Green)
+primaryColor = "#00FF41"
+
+# Background color for the main content area (Dark Slate/Black)
+backgroundColor = "#0D0D0D"
+
+# Background color for sidebar and most interactive widgets (Darker Grey)
+secondaryBackgroundColor = "#111111"
+
+# Color used for almost all text
+textColor = "#FFFFFF"
+
+# Font family for all text in the app
+font = "monospace"

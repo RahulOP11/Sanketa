@@ -1,10 +1,6 @@
 #  SANKETA // VISION_V1.0
 
 <p align="center">
-  <img src="assets/banner.png" alt="Sanketa Vision Banner" width="100%">
-</p>
-
-<p align="center">
   <b>AI-Powered Visual Cipher & Mirror Text Decoder</b><br>
   A Cyberpunk-inspired Streamlit application for recovering hidden information from handwritten numeric ciphers and mirrored text patterns.
 </p>
